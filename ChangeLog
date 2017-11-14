@@ -1,0 +1,20 @@
+2017.05.09, Version 1.0.1 (alpha)
+
+Changes since version x.x.x:
+
+* Add pepper-toolchain.cmake to complete cross-compile on pepper (Kevin.XU)
+
+* Unify the defines of basic types (Kevin.XU)
+
+* Refactor the implemention of parsing protocol data
+
+
+2017.05.05, Version 1.0.0 (alpha)
+
+Changes since version x.x.x:
+
+* Implements basic functions, including client, server and async tasks etc (Kevin.XU)
+
+* Implements basic function tests (haisheng.YU)
+
+
